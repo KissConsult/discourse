@@ -76,8 +76,6 @@ We will deploy Discourse on our cluster
 * Search for **Discourse** and click on it
 ![Discourse](/search.png)
 
-* Please select IBM Kubernetes Service
-![target](/select-target.png)
 
 * On the application page Click in the _dot_ next to the cluster, you wish to use
 ![Cluster](/select-cluster.png)
